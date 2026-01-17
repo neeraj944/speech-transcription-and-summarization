@@ -11,9 +11,9 @@ Features:
 
 -Continuous recording until the speaker stops
 
-- Automatic Question Detection
+-Automatic Question Detection
 
 -Adds question marks for English questions intelligently
 
 - Transcript Display
-Uses Hugging Face summarization models
+-Uses Hugging Face summarization models
