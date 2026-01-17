@@ -15,4 +15,4 @@ Features:
 
 -Adds question marks for English questions intelligently
 
-- Transcript Display Uses Hugging Face summarization models
+-Transcript Display Uses Hugging Face summarization models
